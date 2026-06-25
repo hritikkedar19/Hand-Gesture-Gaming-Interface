@@ -52,7 +52,7 @@ Hand-Gesture-Gaming-Interface/
 │
 ├── GAME.py
 ├── README.md
-└── .gitignore
+└── .vscode
 ```
 
 ---
@@ -74,7 +74,8 @@ cd Hand-Gesture-Gaming-Interface
 ### 3. Install Dependencies
 
 ```bash
-pip install opencv-python mediapipe pynput
+
+py -3.12 -m pip install mediapipe==0.10.14
 ```
 
 ---
@@ -82,11 +83,11 @@ pip install opencv-python mediapipe pynput
 ## ▶️ Running the Project
 
 ```bash
-python GAME.py
+py -3.12 GAME.py
 ```
 
 Make sure:
-
+* Version of game
 * Your webcam is connected and accessible.
 * The target game window is active.
 * Good lighting is available for accurate hand detection.
