@@ -59,19 +59,7 @@ Hand-Gesture-Gaming-Interface/
 
 ## ⚙️ Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/hritikkedar19/Hand-Gesture-Gaming-Interface.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd Hand-Gesture-Gaming-Interface
-```
-
-### 3. Install Dependencies
+###  Install Dependencies
 
 ```bash
 
